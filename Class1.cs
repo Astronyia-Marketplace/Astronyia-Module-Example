@@ -15,6 +15,7 @@ namespace TestModule
         }
         public override void OnApplicationStart()
         {
+            var Action_Menu = DayClientML2.Utility.Extensions.Utils.ActionMenu; // Example how to Use Days Extensions
         }
         public override void OnApplicationQuit()
         {
